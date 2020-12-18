@@ -1,2 +1,5 @@
-# project1
-This is my first repository on Git hub
+#hello-world 
+
+Hey people!
+This is a test to figure out how to use git hub!!!
+
